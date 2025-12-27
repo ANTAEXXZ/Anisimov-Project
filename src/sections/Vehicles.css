@@ -1,0 +1,6 @@
+.vehicles {
+  background: #93B592;
+  background: linear-gradient(45deg, rgba(147, 181, 146, 1) 0%, rgba(101, 138, 69, 1) 50%, rgba(71, 118, 30, 1) 100%);
+  min-height: 100vh;
+  padding: 100px 20px 80px;
+}

@@ -1,0 +1,6 @@
+.weapons {
+  background: #152409;
+  background: linear-gradient(45deg, rgba(21, 36, 9, 1) 0%, rgba(47, 82, 21, 1) 50%, rgba(71, 118, 30, 1) 100%);
+  min-height: 100vh;
+  padding: 100px 20px 80px;
+}
